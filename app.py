@@ -6,4 +6,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Hello, World!<br>This will be a feature."
+    return "Hello, World!<br>This is a feature."
